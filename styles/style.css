@@ -32,10 +32,11 @@ a:hover {
   margin-left: 10px;
 }
 h4 {
-  font-weight: 400;
+   font-weight: 400;
 }
 .branding img {
   height: 3rem;
+
 }
 
 .bg-1 {
@@ -50,17 +51,15 @@ h4 {
 .hero {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  border: 2px solid red;
+ 
 }
 
 .hero-content {
   display: flex;
-  border: 2px solid dodgerblue;
   padding-top: 2rem;
 }
 .hero-text {
   color: white;
-  border: 2px solid red;
   padding: 0 1rem 2rem 1rem;
   margin-bottom: 2rem;
 }
@@ -76,13 +75,11 @@ h4 {
 }
 
 .hero-enrolment {
-  border: 2px solid yellow;
   padding-top: 1.5rem;
   line-height: 1.5rem;
 }
 
 .enrolment-details {
-  border: 2px solid red;
   width: 70%;
 }
 
@@ -103,7 +100,6 @@ h4 {
 }
 
 .hero-form {
-  border: 3px solid green;
   padding: 2rem 2rem 2rem 2rem;
   background-color: white;
   width: 40%;
@@ -147,7 +143,7 @@ button {
 
 .bg-2 {
   background-color: #f9fafa;
-  height: 40rem;
+  height: 47rem;
 }
 
 .testimonial1 {
@@ -194,7 +190,7 @@ button {
 .bg-4 {
   background-color: #f9fafa;
   height: 40rem;
-}
+} 
 h3 {
   text-align: center;
   padding-top: 20px;
@@ -224,4 +220,57 @@ hr {
 .btn {
   width: 30%;
   height: 3rem;
+
+/* section 5 */
+
+} 
+bg-5{
+  background-color: #FFFFFF;
+  height: 50rem;
+}
+h5{
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 25px;
+  font-weight: 800
+}
+.experience-img p{
+  width: 45%;
+  margin: auto;
+  line-height: 1.8rem;
+  padding-bottom: 20px;
+}
+.experience-img img{
+  text-align: center;
+  width: 100%;
+  margin: auto;
+}
+.experience-content{
+  display: flex;
+}
+h4{
+  /* font-size: 20px;
+  font-weight: bold;
+  padding-top: 40px; */
+  
+}
+p {
+  padding-bottom: 1px;
+  line-height: 1.6rem;
+}
+.btn2{
+width: 30%;
+
+}
+.beneath-p{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* Section 6 */
+
+.bg-6{
+  background-color: #F9FAFA;
+  height: 40rem;
 }
